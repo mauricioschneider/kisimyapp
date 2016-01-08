@@ -1,0 +1,25 @@
+{
+  "name": "kisimyapp",
+  "version": "0.0.1",
+  "description": "cURLing the way in with Kisi + Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemavri/kisimyapp.git"
+  },
+  "keywords": [
+    "kisi"
+  ],
+  "author": "Mauricio Schneider <hello@lemavri.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/lemavri/kisimyapp/issues"
+  },
+  "homepage": "https://github.com/lemavri/kisimyapp#readme",
+  "dependencies": {
+    "kisi-client": "^3.3.4"
+  }
+}

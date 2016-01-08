@@ -1,0 +1,9 @@
+{
+  "email": "YOUR_EMAIL",
+  "password": "YOUR_PASSWORD",
+  "allowedApiKeys": [
+    "ANY_STRING"
+  ],
+	"lockId": "LOCK_ID",
+	"placeId": "PLACE_ID"
+}
