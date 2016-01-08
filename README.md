@@ -29,4 +29,4 @@ node index.js
 ```
 
 ### cURL it!
-curl localhost/?apikey=da2218c6420e51edfc199ce49d586927
+```curl localhost/?apikey=da2218c6420e51edfc199ce49d586927```
