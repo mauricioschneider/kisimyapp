@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/lemavri/kisimyapp#readme",
   "dependencies": {
-    "kisi-client": "^3.3.4"
+    "kisi-client": "^3.3.4",
+    "lodash.clonedeep": "^4.3.2",
+    "lodash.omit": "^4.2.1"
   }
 }
